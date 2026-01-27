@@ -6,6 +6,8 @@ description: Architecting a High-Fidelity Threat Detection Enclave
 
 There is a massive gap between "Hype-Driven Projects" and "Production-Grade Engineering." Most home lab tutorials suggest a quick NAT-based setup that relies on your home router for everything from DNS to connectivity.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 That wasn't enough for me.
 
 I wanted to build a <mark style="color:$danger;">**Secure Enclave**</mark>: a research environment that mimics a corporate VLAN which is isolated from the noise of the public internet, hardened against infrastructure failures, and optimized for high-fidelity threat detection.
