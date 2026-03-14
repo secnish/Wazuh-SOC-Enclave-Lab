@@ -1,5 +1,5 @@
 ---
-description: Architecting a High-Fidelity Threat Detection Enclave
+description: Architecting a High-Fidelity Threat Detection Lab Environment
 ---
 
 # Engineering an Air-Gapped SOC Lab with Wazuh
@@ -10,11 +10,11 @@ There is a massive gap between "Hype-Driven Projects" and "Production-Grade Engi
 
 That wasn't enough for me.
 
-I wanted to build a <mark style="color:$danger;">**Secure Enclave**</mark>: a research environment that mimics a corporate VLAN which is isolated from the noise of the public internet, hardened against infrastructure failures, and optimized for high-fidelity threat detection.
+I wanted to build a <mark style="color:$danger;">**Secure Vault 😄**</mark> a research environment that mimics a corporate VLAN which is isolated from the noise of the public internet, hardened against infrastructure failures, and optimized for high-fidelity threat detection.
 
 ***
 
-#### Architect’s Agenda
+#### Agenda
 
 _To bridge the gap between a "tutorial project" and a "sophisticated lab," I set four non-negotiable engineering requirements for my Day 1 of a major project (I will list it later_ �&#xDE04;_) :_
 
@@ -345,13 +345,13 @@ A security engineer never assumes, always make sure to verify. I returned to the
 
 ***
 
-It was a mission to build a resilient, air-gapped security enclave from the ground. By moving past 'next-next-finish' tutorials and tackling the raw friction of paravirtualized drivers, manual package surgery, and isolated network routing, I’ve established a foundation that mimics a true enterprise environment. This isn’t just a lab, it’s a high-fidelity telemetry pipeline where every packet and process is visible.
+It was a mission to build a resilient, air-gapped soc lab from the ground. By moving past 'next-next-finish' tutorials and tackling the raw friction of paravirtualized drivers, manual package surgery, and isolated network routing, I’ve established a foundation that mimics a true enterprise environment. This isn’t just a lab, it’s a high-fidelity telemetry pipeline where every packet and process is visible.
 
 The infrastructure is hardened, the 'Brain' is alive, and the sentinel is active. While Day 1 proved I can build the fortress, Day 2 is where we test its walls.&#x20;
 
 The stage is set for a deep-dive into Windows attack simulations, where we move from the role of the Architect to the role of the Hunter, but before that being an engineer in itself.&#x20;
 
-Stay tuned 🚀
+Stay tuned 🐳
 
 
 
